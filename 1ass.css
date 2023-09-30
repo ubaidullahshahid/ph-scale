@@ -1,0 +1,83 @@
+*{
+    background-color: darkgrey;
+    font-family: sans-serif;
+}
+.scale-container{
+margin-top: 60px;
+}
+.scale-hd{
+    background-color: white;
+    line-height: 70px;
+    margin: 0px 20px 0px 20px;
+    padding-left: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.scale-value-container{
+    margin: 0px 20px 0px 20px;
+    line-height: 30px;
+    color: white;
+    background-color: white;
+    font-weight: bold;
+}
+.value-1{
+    background-color: rgb(4, 121, 199);
+    margin: 0px;
+    margin-top: 20px;
+}
+.value-2{
+    background-color: rgba(4, 132, 218, 0.774);
+    margin: 0px;
+}
+.value-3{
+    background-color: rgba(7, 143, 233, 0.712);
+    margin: 0px;
+}
+.value-4{
+    background-color: rgba(3, 153, 253, 0.616);
+    margin: 0px;
+}
+.value-5{
+    background-color: rgba(53, 174, 255, 0.582);
+    margin: 0px;
+}
+.value-6{
+    background-color: rgba(45, 167, 248, 0.452);
+    margin: 0px;
+}
+.value-7{
+    background-color: rgba(41, 166, 250, 0.301);
+    margin: 0px;
+}
+.value-8{
+    background-color: rgb(3, 168, 86);
+    margin: 0px;
+}
+.value-9{
+    background-color: rgba(247, 0, 206, 0.253);
+    margin: 0px;
+}
+.value-10{
+    background-color: rgba(247, 0, 206, 0.363);
+    margin: 0px;
+}
+.value-11{
+    background-color: rgba(247, 0, 206, 0.466);
+    margin: 0px;
+}
+.value-12{
+    background-color: rgba(247, 0, 206, 0.541);
+    margin: 0px;
+}
+.value-13{
+    background-color: rgba(247, 0, 206, 0.623);
+    margin: 0px;
+}
+.value-14{
+    background-color: rgba(247, 0, 206, 0.664);
+    margin: 0px;
+}
+.value-15{
+    background-color: rgba(247, 0, 206);
+    margin: 0px;
+}
